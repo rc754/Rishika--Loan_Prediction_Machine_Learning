@@ -38,7 +38,7 @@ Figure 3.1 describes the methodology. Firstly the information is collected from 
 ## Results
 
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/61707225/130239775-4c744ef9-34ba-4f24-966a-402b0c71cc69.PNG" width="550"/>
+  <img src="https://user-images.githubusercontent.com/61707225/130239775-4c744ef9-34ba-4f24-966a-402b0c71cc69.PNG" width="550"/>
 </p>
 Inferring from that, the Random Forest Classifier performs best on the dataset with an AUROC of 79%. After obtaining our best classifier, we implemented decision threshold tuning to obtain the optimal point in our ROC curve. We could achieve high recall for no-defaulters, but given the small dataset, we were able to
 achieve moderate recall. Some simple classifiers like Naive Bayes Classifiers outperformed their more complex counterparts like SVM Gaussion or DTC. For Bank Loan Prediction, we need high precision combined with relatively high recall.
