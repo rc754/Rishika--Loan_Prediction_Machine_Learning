@@ -14,3 +14,7 @@ Company.
 ## Methodology 
 
 Figure 3.1 describes the methodology. Firstly the information is collected from customers. We then clean the data where replace the missing numerical values with median and categorical values with their mode. In the third step, we train the model on the data set and in the following step, we base its accuracy on the test data set. Finally, evaluation will be done on AUC, Accuracy etc. The steps involved in Building the data model is depicted below:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61707225/130238417-642b2d88-889b-475a-a51d-e76da52a5571.PNG" width="500"/>
+</p>
