@@ -10,3 +10,7 @@ customer eligibility for loan. However doing this manually takes a lot of time. 
 customer segments that are eligible for taking loan. How will the company benefit if we give the customer segments is the immediate question that arises. The solution is . . . .Banks would give loans to only those
 customers that are eligible so that they can be assured of getting the money back. Hence the more accurate we are in predicting the eligible customers the more beneficial it would be for the Dream Housing Finance
 Company.
+
+## Methodology 
+
+Figure 3.1 describes the methodology. Firstly the information is collected from customers. We then clean the data where replace the missing numerical values with median and categorical values with their mode. In the third step, we train the model on the data set and in the following step, we base its accuracy on the test data set. Finally, evaluation will be done on AUC, Accuracy etc. The steps involved in Building the data model is depicted below:
