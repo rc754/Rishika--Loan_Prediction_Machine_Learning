@@ -18,3 +18,11 @@ Figure 3.1 describes the methodology. Firstly the information is collected from 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61707225/130238417-642b2d88-889b-475a-a51d-e76da52a5571.PNG" width="550"/>
 </p>
+
+## Exploratory Data Analysis
+ - Univariate Analysis
+ - Bivariate Analysis 
+ - Data Cleaning
+ - Dealing with Categorical Variables
+ - Outlier Treatment
+ -
