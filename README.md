@@ -1,4 +1,4 @@
-# Loan_Prediction_Machine_Learning
+# Loan Default Classification
 
 With the enhancement in the banking sector lots of people are applying for bank loans but the bank has its limited assets which it has to grant to limited people only, so finding out to whom the loan can be granted,
 which will be a safer option for the bank is a typical process. We introduce an effective prediction technique that helps the banker to predict the credit risk for customers who have applied for loan. By predicting the loan
